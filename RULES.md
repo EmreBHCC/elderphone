@@ -13,6 +13,7 @@ Bu dosya, projede uyulması gereken kuralları ve kararları listeler. Yeni bir 
 - **Kural:** Performans her zaman öncelikli bir tasarım kriteri olarak değerlendirilmeli. **Neden:** Kullanıcı deneyimi ve sistem verimliliği için kritik. **Kapsam:** Mimari kararlar ve implementasyon detayları.
 - **Kural:** Kullanıcı arayüzüne öncelik verilmeli; arayüz sade, göz yormayan ama şık olmalı. **Neden:** Kullanılabilirlik ve kullanıcı memnuniyeti. **Kapsam:** Tüm arayüz/UI çalışmaları.
 - **Kural:** Temel md dosyaları (`CLAUDE.md`, `ARCHITECTURE.md`, `ROOTS.md`, `RULES.md`, `LESSONS.md`, `CHANGELOG.md`, `NOTES.md`) her zaman güncel tutulmalı ve ilgili yerlerde birbirine geri bağlantı (link) verilmeli. **Neden:** Dokümantasyonun dağılmadan, tutarlı ve izlenebilir kalması. **Kapsam:** Tüm dosya/karar/değişiklik işlemleri.
+- **Kural:** Her commit Emre'nin kimliğiyle atılır; `Co-Authored-By: Claude` satırı aksi açıkça söylenmedikçe asla eklenmez. **Neden:** Katkı grafiğinde ajan görünmemeli. **Kapsam:** Bu repodaki tüm git commit'leri.
 
 ## İlgili Dosyalar
 

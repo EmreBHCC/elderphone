@@ -16,6 +16,8 @@ Bu dosya, projede yapılan değişiklikleri tarih sırasıyla listeler.
 
 - **Tarih:** 2026-09-21. **Değişiklik:** Repo görünürlüğünün public kaldığı doğrulandı; `.gitignore` eklendi. **Neden:** Kullanıcı talebiyle görünürlük teyidi ve gereksiz/gizli dosyaların depoya girmesinin önlenmesi.
 
+- **Tarih:** 2026-09-21. **Değişiklik:** `RULES.md`'ye "her commit Emre'nin kimliğiyle atılır, Co-Authored-By eklenmez" kuralı eklendi. **Neden:** `Kurallar.md`'deki git kimlik kuralının bu repoya da yansıtılması.
+
 ## İlgili Dosyalar
 
 [CLAUDE.md](CLAUDE.md) · [ARCHITECTURE.md](ARCHITECTURE.md) · [ROOTS.md](ROOTS.md) · [RULES.md](RULES.md) · [LESSONS.md](LESSONS.md) · [NOTES.md](NOTES.md)
