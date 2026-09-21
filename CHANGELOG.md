@@ -14,6 +14,8 @@ Bu dosya, projede yapılan değişiklikleri tarih sırasıyla listeler.
 
 - **Tarih:** 2026-09-21. **Değişiklik:** `README.md` oluşturuldu, `ROOTS.md`'ye kaydedildi. **Neden:** Proje için standart bir giriş noktası ve dokümantasyon yönlendirmesi sağlanması.
 
+- **Tarih:** 2026-09-21. **Değişiklik:** Repo görünürlüğünün public kaldığı doğrulandı; `.gitignore` eklendi. **Neden:** Kullanıcı talebiyle görünürlük teyidi ve gereksiz/gizli dosyaların depoya girmesinin önlenmesi.
+
 ## İlgili Dosyalar
 
 [CLAUDE.md](CLAUDE.md) · [ARCHITECTURE.md](ARCHITECTURE.md) · [ROOTS.md](ROOTS.md) · [RULES.md](RULES.md) · [LESSONS.md](LESSONS.md) · [NOTES.md](NOTES.md)

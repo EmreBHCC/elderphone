@@ -1,0 +1,30 @@
+# Bağımlılıklar
+node_modules/
+vendor/
+.venv/
+__pycache__/
+*.pyc
+
+# Build çıktıları
+dist/
+build/
+out/
+*.egg-info/
+
+# Ortam ve gizli dosyalar
+.env
+.env.*
+*.local
+
+# Log ve önbellek
+*.log
+.cache/
+
+# Editör/IDE
+.vscode/
+.idea/
+*.swp
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db

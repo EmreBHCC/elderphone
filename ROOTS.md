@@ -9,6 +9,7 @@ Bu dosya, projede oluşturulan/oluşturulacak dosyaların yollarını takip eder
 ## Dosyalar
 
 - `README.md` — **Amaç:** projenin giriş noktası, genel tanıtım ve dokümantasyona yönlendirme. **Yöntem:** proje ilerledikçe açıklama bölümü doldurulacak. **Kullanılan:** Markdown.
+- `.gitignore` — **Amaç:** bağımlılık, build çıktısı, gizli/ortam dosyaları ve editör/OS dosyalarının depoya girmesini engellemek. **Yöntem:** genel amaçlı standart kalıplar; proje bir dil/framework'e karar verince genişletilecek. **Kullanılan:** Git.
 
 ## İlgili Dosyalar
 
